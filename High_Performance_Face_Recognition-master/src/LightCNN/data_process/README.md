@@ -1,0 +1,4 @@
+- convert RGB images to hd5 files
+- RGB image size: 122x144, pad 11 pixels for right and left sides and normlize to 144x144
+- Input: 10K image list
+- Output: hd5 files
